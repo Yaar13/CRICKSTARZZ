@@ -11,6 +11,7 @@
 		5E316EEB22C13CB7008BB98D /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E316EEA22C13CB7008BB98D /* Person.swift */; };
 		5E316EED22C13CD5008BB98D /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E316EEC22C13CD5008BB98D /* Player.swift */; };
 		5E316EEF22C140A3008BB98D /* Umpire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E316EEE22C140A3008BB98D /* Umpire.swift */; };
+		5E316EF122C140D3008BB98D /* Coach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E316EF022C140D3008BB98D /* Coach.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		5E316EEA22C13CB7008BB98D /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		5E316EEC22C13CD5008BB98D /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 		5E316EEE22C140A3008BB98D /* Umpire.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Umpire.swift; sourceTree = "<group>"; };
+		5E316EF022C140D3008BB98D /* Coach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coach.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 			isa = PBXGroup;
 			children = (
 				5E316EE322C13CA3008BB98D /* main.swift */,
+				5E316EF022C140D3008BB98D /* Coach.swift */,
 				5E316EEE22C140A3008BB98D /* Umpire.swift */,
 				5E316EEC22C13CD5008BB98D /* Player.swift */,
 				5E316EEA22C13CB7008BB98D /* Person.swift */,
@@ -128,6 +131,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E316EF122C140D3008BB98D /* Coach.swift in Sources */,
 				5E316EEB22C13CB7008BB98D /* Person.swift in Sources */,
 				5E316EEF22C140A3008BB98D /* Umpire.swift in Sources */,
 				5E316EED22C13CD5008BB98D /* Player.swift in Sources */,
